@@ -1,16 +1,14 @@
-## Hi there 👋
+Lucas-Woibau/README.md
 
-<!--
-**matheussnicacio/matheussnicacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Typing SVG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main skills:
+C#  .NET  JAVASCRIPT  MySQL 
+
+Tools:
+Visual Studio Code  GIT  Visual Studio  Windows  Microsoft SQL Server  Microsoft-Office 
+
+Other Knowledge:
+HTML  CSS  Unity  Blender  Adobe Photoshop 
+
