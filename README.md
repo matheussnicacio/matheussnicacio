@@ -31,7 +31,7 @@
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-[ProgressOpenEdge](https://camo.githubusercontent.com/70da7836e6e3b16abc067edfba4a11bcdd9e714c29f2ae2118d3603f7592eb8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6772657373204f70656e20456467652d677265656e)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussnicacio&layout=donut&bg_color=000000&title_color=869EC1FF&text_color=ffffff" />
