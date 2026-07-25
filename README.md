@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=matheussnicacio&theme=darkandwhite)
+![GitHub Streak](https://streak-stats.demolab.com/?user=matheussnicacio&theme=dark)
 
 ### Tools:
 
