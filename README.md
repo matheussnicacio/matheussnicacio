@@ -15,7 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![GitHub stats](https://img.shields.io/github/stars/matheussnicacio?style=for-the-badge&color=869EC1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheussnicacio&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Tools:
 
