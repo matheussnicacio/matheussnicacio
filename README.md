@@ -15,7 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Matheus Nicacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussnicacio&show_icons=true&title_color=869EC1&text_color=ffffff&icon_color=869EC1&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://img.shields.io/github/stars/matheussnicacio?style=for-the-badge&color=869EC1)
 
 ### Tools:
 
