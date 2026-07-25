@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header" alt="header banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=869EC1&center=true&vCenter=true&width=435&lines=Hello%2C+My+Name+is+;Matheus+Nicacio+Pereira;I%60m+19+years+old;I+from+Brazil%2C+SC;Bachelor+in+Software+Engineering;Welcome!+%3A)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=869EC1&center=true&vCenter=true&width=435&lines=Hello%2C+My+Name+is+;Matheus+Nicacio+Pereira;I%60m+20+years+old;I+from+Brazil%2C+SC;Bachelor+in+Software+Engineering;Welcome!+%3A)" alt="Typing SVG" />
 </a>
 
 ### Main skills:
