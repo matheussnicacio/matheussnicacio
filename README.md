@@ -17,8 +17,8 @@
 ![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=matheussnicacio&theme=github-dark&hide_border=true" height="180" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussnicacio&theme=github-dark" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=matheussnicacio&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussnicacio&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
 
 ### Tools:
