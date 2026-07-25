@@ -35,6 +35,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Progress OpenEdge](https://img.shields.io/badge/Progress_OpenEdge-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+![Powerbuilder Sybase](https://img.shields.io/badge/Powerbuilder_Sybase-007BFF?style=for-the-badge&logo=BLUE&logoColor=white)
 
 
 
