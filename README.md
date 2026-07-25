@@ -37,7 +37,7 @@
 ![Progress OpenEdge](https://img.shields.io/badge/Progress_OpenEdge-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![Powerbuilder Sybase](https://img.shields.io/badge/Powerbuilder_Sybase-007BFF?style=for-the-badge&logo=BLUE&logoColor=white)
 
-![Linguagens por Repositório](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussnicacio&theme=dark)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=matheussnicacio&theme=dark) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussnicacio&theme=dark)
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer" alt="footer banner" />
