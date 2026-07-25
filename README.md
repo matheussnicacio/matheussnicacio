@@ -36,6 +36,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Progress OpenEdge](https://img.shields.io/badge/Progress_OpenEdge-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussnicacio&layout=donut&bg_color=000000&title_color=869EC1&text_color=ffffff&hide_border=true" alt="Top languages" />
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer" alt="footer banner" />
