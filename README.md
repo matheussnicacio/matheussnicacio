@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=matheussnicacio&theme=tokyonight&hide_border=true" height="275" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussnicacio&theme=tokyonight" height="200" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussnicacio&theme=tokyonight" height="10" alt="Top Languages" />
 </div>
 
 ### Tools:
