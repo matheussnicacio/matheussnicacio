@@ -37,7 +37,7 @@
 ![Progress OpenEdge](https://img.shields.io/badge/Progress_OpenEdge-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![Powerbuilder Sybase](https://img.shields.io/badge/Powerbuilder_Sybase-007BFF?style=for-the-badge&logo=BLUE&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussnicacio&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussnicacio&theme=dark&hide_border=true)
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer" alt="footer banner" />
