@@ -21,11 +21,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussnicacio&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=matheussnicacio&theme=tokyonight&hide_border=true" height="275" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussnicacio&theme=tokyonight" height="190" alt="Top Languages" />
-</div>
-
 ### Tools:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
